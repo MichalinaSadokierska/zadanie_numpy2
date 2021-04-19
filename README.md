@@ -1,0 +1,1 @@
+# zadanie_numpy2
